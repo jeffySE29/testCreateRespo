@@ -1,0 +1,5 @@
+MiddleWare chặn dòng dữ liệu trước khi vào handler xử lí
+- có thể tùy chọn chặn thằng nào
+- trong trường hợp này thì dùng để lọc body trước khi vào handler
+
+sử dụng tải import thư viện npm install body-parser -S

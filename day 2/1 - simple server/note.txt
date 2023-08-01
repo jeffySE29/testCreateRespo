@@ -1,0 +1,4 @@
+sử dụng thư viện express để tạo server
+syntax           npm install express --save
+
+200lab.education lên đây xem god BE múa
